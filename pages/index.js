@@ -1,5 +1,5 @@
 function Home (){
-    return <h1>Mensagem para impactar alguem</h1>
+    return <h1>Mensagem de teste (curso.dev) !</h1>
 }
 
 export default Home;
